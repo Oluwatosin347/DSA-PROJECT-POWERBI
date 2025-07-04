@@ -1,7 +1,7 @@
 # DSA-PROJECT-POWERBI
 A project given to us by DSAHUB to show our creativity and our learning so far in our Data Analysis skill, and how it has impacted our lives positively.
 
- **Palmora Group HR Analysis**
+ **Project Topic: Palmora Group HR Analysis**
 The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
 bordering on gender inequality in its 3 regions. Unfortunately, the media recently
 published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This
