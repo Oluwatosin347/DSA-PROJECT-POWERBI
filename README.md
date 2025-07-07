@@ -59,3 +59,11 @@ Tools Used
 Power BI, Excel
 
 **Focus:** Gender equality, salary compliance, bonus allocation
+
+Data Modeling:
+Structure and Relationships:
+Understand how your data is structured and how different tables relate to each other.
+
+**Dashboard Visualization**
+![WhatsApp Image 2025-07-07 at 17 34 49_3aa44637](https://github.com/user-attachments/assets/1634c3a7-d542-483b-9ca9-bf8b62b4d757)
+
